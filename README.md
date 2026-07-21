@@ -20,7 +20,7 @@ To use any of these architectures in your Antigravity environment, you need to p
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/antigravity-add-plugins.git
+   git clone https://github.com/raijumounun/antigravity-add-plugins.git
    cd antigravity-add-plugins
    ```
 
