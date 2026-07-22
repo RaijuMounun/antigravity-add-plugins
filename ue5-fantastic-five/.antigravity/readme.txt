@@ -1,0 +1,1 @@
+This folder should be placed into Project folder, not the Plugins folder.
